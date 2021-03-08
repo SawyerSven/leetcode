@@ -5,6 +5,7 @@
 ## 剑指Offer <a id="offer"></a>
 
 * [用两个栈实现队列](offer/two-stack-to-queue.md)
+* [包含min函数的栈](offer/stack-with-min.md)
 
 ## 二叉树 <a id="binary-tree"></a>
 
