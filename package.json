@@ -1,0 +1,15 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SawyerSven/leetcode",
+  "author": "sunsiyuan <siyuan.sun1@baozun.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "dev":"gitbook serve",
+    "jest": "^26.6.3"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
