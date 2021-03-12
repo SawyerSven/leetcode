@@ -25,6 +25,6 @@ describe('stack with min', () => {
     arr.forEach((item) => ms.push(item));
     expect(ms.minStack).toEqual([null, null, 0, 0, null]);
     ms.pop();
-    expect(ms.min()).toBe(null);
+    expect(ms.min()).toBe(0);
   });
 });
